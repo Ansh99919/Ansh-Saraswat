@@ -59,5 +59,5 @@ portfolio/
 ├── script.js
 └── assets/
     ├── images/
-        |--Ansh Photo.png
+        ├──Ansh Photo.png
 
